@@ -26,3 +26,6 @@ Para iniciar a aplicação, utilize o seguinte comando:
 
 `` bash
 npm start
+
+## Visualização
+![image](https://github.com/linikersilva01/Calculadora-React/assets/111355226/ec78d2be-ffd5-48f7-af24-958af2f3ce38)
